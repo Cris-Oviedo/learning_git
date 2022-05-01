@@ -1,2 +1,6 @@
+
+def add(a: int, b: int):
+    print(a+b)
+
 if __name__ == '__main__':
-    pass
+    add(2,2)
